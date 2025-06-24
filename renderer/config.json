@@ -1,0 +1,11 @@
+{
+    "rcc": "C:\\Users\\harry\\Desktop\\BBSiteTest\\services\\RCCService",
+	"rccexe": "RCCService.exe",
+    "authorization": "THISISTHEAUTHFORRCCRAHHHHHHHHH",
+    "baseUrl": "https://bs.zawg.ca",
+    "rccPort": 64989,
+    "port": 3040,
+    "websiteBotAuth": "UW8U8TU9W9R8RHGRJOGWGOINOOWGNWRNJWWNRJ",
+    "thumbnailWebsocketPort": 3189,
+	"webhook": "https://discord.com/api/webhooks/1374545507292283002/PGs8x0q1lN5pK6SmIy95hW9DlquKA0SuvWMZqnsbYBy_4kDiKF3cs3W1n_wpbVsAezZb"
+}

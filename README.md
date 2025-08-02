@@ -18,7 +18,7 @@ this guide will be mostly a mix of the original one, and some things i added.
 
 ## requirements
 - at least Windows 10, Linux is untested as my server is a Windows machine. You should use Wine to run everything if you are using linux
-- a 10 character long domain with SSL for HTTPS
+- a 10 character long domain that supports both HTTP and HTTPS
 - knowledge on how things like this work (you should have at least some experience with websites and coding to be able to host this. it's really not hard to set up if you know what you're doing.)
 
 ## database
